@@ -17,3 +17,5 @@ Pemain akan dinyatakan kalah jika bertabrakan dengan :
 - Tembok Pembatas
 - Obstacle
 
+Link Presentasi :
+https://docs.google.com/presentation/d/1JulKpDpszsokVcDHLsyLJ7kLx_XKREqHjRZPOhNLQaE/edit?usp=sharing
